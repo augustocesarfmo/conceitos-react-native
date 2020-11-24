@@ -2,7 +2,7 @@
 
 Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação _mobile_ utilizando o _framework_ React Native.
 
-![](https://imgur.com/h0UEAXN.png)
+![](https://imgur.com/TqkpJfq.png)
 
 - [Conceitos do React Native](#head1)
 	- [🤔 O que é React Native?](#head3)
