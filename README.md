@@ -1,10 +1,17 @@
-# Conceitos do React Native
+# <span id="head1">Conceitos do React Native</span>
 
 Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação _mobile_ utilizando o _framework_ React Native.
 
-## Conhecimentos Obtidos
+- [Conceitos do React Native](#head1)
+	- [📚 Conhecimentos obtidos](#head2)
+		- [O que é React Native?](#head3)
+	- [ 🚀Tecnologias](#head4)
+	- [ℹ️ Executando](#head5)
+	- [📝 Licença](#head6)
+  
+## <span id="head2">📚 Conhecimentos obtidos</span>
 
-### O que é React Native?
+### <span id="head3">O que é React Native?</span>
 
 React Native é a versão do React para desenvolvimento _mobile_ e possui as seguintes características:
 
@@ -14,15 +21,15 @@ React Native é a versão do React para desenvolvimento _mobile_ e possui as seg
 - O Código não é transpilado.
 - Não há herança de estilos entre os seus elementos, diferente do ReactJS.
 
-## Tecnologias
+## <span id="head4"> 🚀Tecnologias</span>
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React Native](https://facebook.github.io/react-native/)
-- [Axios](https://github.com/axios/axios)
-- [VS Code][vc]
+- [react-native](https://facebook.github.io/react-native/)
+- [axios](https://github.com/axios/axios)
+- [vs code][vc]
 
-## Executando
+## <span id="head5">ℹ️ Executando</span>
 
 Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v12.13][nodejs] ou superior + [Yarn v1.19][yarn] ou superior instalado no seu computador.
 
@@ -42,13 +49,13 @@ $ yarn install
 $ yarn start
 ```
 
-## 📝 Licença
+## <span id="head6">📝 Licença</span>
 
 Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
 
 ---
 
-by Augusto César
+by Augusto César Oliveira 👐🏼
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
