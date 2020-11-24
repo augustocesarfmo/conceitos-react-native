@@ -3,8 +3,8 @@
 Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação _mobile_ utilizando o _framework_ React Native.
 
 - [Conceitos do React Native](#head1)
-	- [O que é React Native?](#head3)
-	- [ 🚀Tecnologias](#head4)
+	- [🤔 O que é React Native?](#head3)
+	- [🚀 Tecnologias](#head4)
 	- [ℹ️ Executando](#head5)
 	- [📝 Licença](#head6)
 
@@ -18,7 +18,7 @@ React Native é a versão do React para desenvolvimento _mobile_ e possui as seg
 - O Código não é transpilado.
 - Não há herança de estilos entre os seus elementos, diferente do ReactJS.
 
-## <span id="head4"> 🚀Tecnologias</span>
+## <span id="head4">🚀 Tecnologias</span>
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
