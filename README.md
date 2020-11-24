@@ -3,19 +3,16 @@
 Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação _mobile_ utilizando o _framework_ React Native.
 
 - [Conceitos do React Native](#head1)
-	- [📚 Conhecimentos obtidos](#head2)
-		- [O que é React Native?](#head3)
+	- [O que é React Native?](#head3)
 	- [ 🚀Tecnologias](#head4)
 	- [ℹ️ Executando](#head5)
 	- [📝 Licença](#head6)
-  
-## <span id="head2">📚 Conhecimentos obtidos</span>
 
-### <span id="head3">O que é React Native?</span>
+### <span id="head3">🤔 O que é React Native?</span>
 
 React Native é a versão do React para desenvolvimento _mobile_ e possui as seguintes características:
 
-- É Multiplataforma, com um único código é possível gerar versões de app para Android e iOS.
+- É multiplataforma, com um único código é possível gerar versões de app para Android e iOS.
 - É possível manipular cada plataforma de forma diferente.
 - Possui interface nativa e não híbrida, como o Ionic.
 - O Código não é transpilado.
