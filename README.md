@@ -1,6 +1,6 @@
 # <span id="head1">Conceitos do React Native</span>
 
-Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação _mobile_ utilizando o _framework_ React Native.
+Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação mobile utilizando o framework React Native.
 
 ![](https://imgur.com/99h1cSU.png)
 
